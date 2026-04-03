@@ -25,6 +25,8 @@
 > **💡 提示**：对于纯文本阅读（如长篇博客），DeepSeek 官方推荐的 Temperature 为 `1.3`，意译效果极佳。建议在插件中为“网页翻译”和“视频翻译”创建两个独立的 DeepSeek 服务配置。
 
 ---
+如果你在使用过程中发现了更好的断句策略或参数组合，欢迎提交 Pull Request 或发起 Issue 讨论！
+---
 
 ## 📜 核心 Prompt 部署 (The Core Prompt)
 
@@ -43,6 +45,3 @@ CRITICAL INSTRUCTIONS FOR SUBTITLES (严格对齐、意译与去噪音):
 
 {{text}}
 
-🤝 参与贡献
-如果你在使用过程中发现了更好的断句策略或参数组合，欢迎提交 Pull Request 或发起 Issue 讨论！
-###
